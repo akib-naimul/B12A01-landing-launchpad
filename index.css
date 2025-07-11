@@ -1,3 +1,10 @@
+/* body part */
+body{
+    background-color: #f5f5f9;
+}
+
+
+
 /* main section style */
 main{
     max-width: 1140px;
@@ -11,11 +18,7 @@ main{
 /* all button style */
 
 /* text style */
-/* raleway font style */
 
-/* .raleway{
-  
-} */
 
 .button{
   font-family: "Inter", sans-serif;
@@ -165,7 +168,7 @@ main{
 .col-2 form{
     height: 490px;
     width: 497px;
-    background-color: antiquewhite;
+    /* background-color: antiquewhite; */
 }
 .col-2 label{
     height: 22px;
@@ -195,6 +198,10 @@ main{
     border-radius: 6px;
 }
 /* Footer section*/
+footer{
+    background-color: #FFFFFF;
+}
+
 .footer-div{
     /* display: flex; */
     /* justify-content: center; */
