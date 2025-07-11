@@ -112,3 +112,30 @@ main{
     height: 328px;
     border-radius: 48px;
 }
+/* Productive users section design */
+.productive{
+    background-color:#d6d5f4;
+    text-align: center;
+    padding: 50px 142px;
+    margin-bottom: 158px;
+    border-radius: 10px;
+}
+
+.productive h3{
+    font-size: 38px;
+    font-weight: bold;
+    color: #252432;   
+}
+.options{
+    display: flex;
+    justify-content: space-evenly;
+}
+.title{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 80px;
+    font-weight: bold;
+    color: #4e47ff;
+    margin-bottom: 0;
+}
