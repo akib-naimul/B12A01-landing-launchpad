@@ -42,6 +42,14 @@ main{
   font-style: normal;
   background-color: #4e47ff;
   border-radius: 5px;
+  cursor: pointer;
+  
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+.button:hover{
+    background-color: #3a35cc;
+    transform: scale(1.05);
+
 }
 
 /* perple color */
