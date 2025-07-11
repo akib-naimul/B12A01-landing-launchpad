@@ -1,0 +1,47 @@
+/* main section style */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+/* all button style */
+
+/* text style */
+/* raleway font style */
+
+
+.button{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  color: #FFFFFF;
+  font-style: normal;
+  background-color: #4e47ff;
+}
+
+/* perple color */
+.perple{
+    color: #4e47ff;
+}
+/* --------------------------------------------------------------------------------------------------------------------------- */
+/* nav bar design */
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 158px;
+}
+.logo{
+    width: 99px;
+    height: 51px;
+    font-size: 34px; 
+    font-weight: bold; 
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+  
+    font-style: normal; 
+}
+.nav-bar button{
+    padding: 12px 36px;
+    border-radius: 5px;
+}
+
+
