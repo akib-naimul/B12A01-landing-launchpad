@@ -139,3 +139,15 @@ main{
     color: #4e47ff;
     margin-bottom: 0;
 }
+/* users review section */
+.review{
+    margin-bottom: 158px;
+}
+
+
+/* Get intouch section */
+.child-div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
