@@ -4,6 +4,21 @@ body{
 }
 
 
+.hero-area{
+    background-image: url(Assets/Hero-bg.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    
+}
+.container{
+    max-width: 1140px;
+    margin: 0 auto;
+    
+}
+
+
 
 /* main section style */
 main{
@@ -38,13 +53,12 @@ main{
 
 /* nav bar design */
 .nav-bar{
+    /* max-width: 1140px;
+    margin: 0 auto; */
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-bottom: 158px;
-
-
-   
+    margin-bottom: 158px;  
 }
 .logo{
     width: 99px;
@@ -63,13 +77,18 @@ main{
 
 .banner{
     /* display: flex; */
+    /* max-width: 1140px;
+    margin: 0 auto; */
     justify-content: center;
     align-items: center;
-    margin-bottom: 158px;
-    
+    margin-bottom: 158px;   
 }
 .both{
     text-align: center;
+}
+
+.both button{
+    margin-bottom: 152px;
 }
 
 .banner h2{
